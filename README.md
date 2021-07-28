@@ -1,2 +1,4 @@
-# dinamica-2021
-Repositório onde armazeno minhas tarefas e trabalhos de dinâmica.
+# Dinâmica
+### Prof.: @Pi-vi
+-----
+Este repositório contem minhas tarefas e trabalhos da aula de dinâmica.
